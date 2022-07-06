@@ -1,0 +1,12 @@
+.Chat__userMessage {
+    margin: 10px;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.Chat__youMessage {
+    margin: 10px;
+    font-size: 18px;
+    color: #2C87BB;
+    line-height: 18px;
+}
