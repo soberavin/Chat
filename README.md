@@ -1,6 +1,8 @@
 # Chat
-back/front React, Ts, MobX chat with auth.
-+websockets
+* Backend node.js
+* Frontend React
+* websockets
+
 ## Launching
 
 ```
